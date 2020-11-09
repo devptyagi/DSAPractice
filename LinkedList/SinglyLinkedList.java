@@ -17,7 +17,8 @@ public class SinglyLinkedList<E> {
 	boolean isEmpty() {
 		return head == null;
 	}
-
+	
+	// Return the size of the list.
 	int size() {
 		if (this.isEmpty())
 			return 0;
