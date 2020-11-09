@@ -1,6 +1,6 @@
-# DSA Practice
+# Data Structures and Algorithms in JAVA
 
-Just practicing Data Structures and Algorithms.
+This repo contains my implementation of various DSA questions.
 
 ## Arrays
 
