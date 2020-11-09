@@ -148,5 +148,18 @@ public class SinglyLinkedList<E> {
 		}
 		return second.data;
 	}
+	
+	// Reverse the linked list
+	void reverse() {
+		Node<E> curr = head;
+		Node<E> prev = null;
+		while(curr != null) {
+			Node<E> next = curr.next;
+			curr.next = prev;
+			prev = curr;
+			curr = next;
+		}
+		head = prev;
+	}
 
 }
