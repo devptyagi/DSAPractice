@@ -90,3 +90,6 @@ This repo contains my implementation of various DSA questions.
 * Find the size of the list
 * Print the list
 * Search for an element in the list
+* Get middle element of the list
+* Get nTh node from the end.
+* Reverse the linked list
