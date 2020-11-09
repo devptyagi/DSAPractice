@@ -120,5 +120,33 @@ public class SinglyLinkedList<E> {
 		}
 		return false;
 	}
+	
+	// Return the middle element of the list.
+	E getMiddleElement() {
+		if(this.isEmpty()) 
+			return null;
+		Node<E> slow = head, fast = head;
+		while(fast != null && fast.next != null) {
+			slow = slow.next;
+			fast = fast.next.next;
+		}
+		return slow.data;
+	}
+	
+	// Return nTh node from the end.
+	E getNthNodeFromEnd(int n) {
+		if(this.isEmpty())
+			return null;
+		Node<E> first = head, second = head;
+		for(int i=0;i<n;i++) {
+			if(first == null) return null;
+			first = first.next;
+		}
+		while(first != null) {
+			second = second.next;
+			first = first.next;
+		}
+		return second.data;
+	}
 
 }
