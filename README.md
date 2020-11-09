@@ -74,4 +74,19 @@ Just practicing Data Structures and Algorithms.
 * Bubble Sort
 * Selection Sort
 * Insertion Sort
-* Merge Sort
+* Merge Sort 
+
+## Linked Lists
+
+#### Implemented generic SinglyLinkedList class with following functions: 
+
+* Add an element
+* Add an element in the beginning
+* Add an element in the end
+* Add an element at a given index
+* Delete the first element
+* Delete the last element
+* Check if Linked List is empty
+* Find the size of the list
+* Print the list
+* Search for an element in the list
