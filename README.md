@@ -28,6 +28,21 @@ Just practicing Data Structures and Algorithms.
 * Binary Exponentiation
 * Tower of Hanoi Move Count
 
+## Backtracking
+
+* Print all combinations with sum equal to given target
+* Print all permutations of an array
+* Print all combinations of K elements form an array
+* Pritn all anagrams of a given string
+* Break a string into words defined in a dictionary
+
+## Dynamic Programming
+
+* nTh Fibonacci
+* nCr [Combinations: Choose R objects from N objects]
+* Knapsack Problem
+* House Painting Problem
+
 ## Hashing
 
 * Count non repeating elements
