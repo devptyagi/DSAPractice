@@ -161,5 +161,19 @@ public class SinglyLinkedList<E> {
 		}
 		head = prev;
 	}
-
+	
+	// Given a sorted linked list, Remove all duplicates.
+	void removeDuplicatesFromSorted() {
+		if(this.isEmpty())
+			return;
+		Node<E> curr = head;
+		while(curr != null && curr.next != null) {
+			if(curr.data == curr.next.data) {
+				curr.next = curr.next.next;
+			} else {
+				curr = curr.next;
+			}
+		}
+	}
+	
 }
