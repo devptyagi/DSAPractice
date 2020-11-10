@@ -176,4 +176,23 @@ public class SinglyLinkedList<E> {
 		}
 	}
 	
+	// Delete node at given index
+	void delete(int pos) {
+		if(this.isEmpty())
+			return;
+		if(pos == 1) {
+			head = head.next;
+			return;
+		}
+		Node<E> temp = head;
+		for(int i=0;i<pos;i++) {
+			if(temp == null) break;
+			temp = temp.next;
+		}
+		if(temp == null || temp.next == null) {
+			return;
+		}
+		temp.next = temp.next.next;
+	}
+	
 }
