@@ -45,6 +45,20 @@ public class CircularLinkedList<E> {
 		tail.next = head.next;
 		head = head.next;
 	}
+	
+	void deleteKthNode(int k) {
+		if(head == null) return;
+		if(k == 1) {
+			head.data = head.next.data;
+			head.next = head.next.next;
+			return;
+		}
+		Node<E> curr = head;
+		for(int i=0;i<k-2;i++) {
+			curr = curr.next;
+		}
+		curr.next = curr.next.next;
+	}
 
 	void printList() {
 		if(head == null) return;
