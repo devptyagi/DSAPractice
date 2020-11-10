@@ -102,3 +102,4 @@ This repo contains my implementation of various DSA questions.
 * Add at the end of a circular linked list
 * Delete the head of circular linked list
 * Print cicular linked list
+* Delete kTh node.
