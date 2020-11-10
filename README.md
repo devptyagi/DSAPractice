@@ -93,3 +93,4 @@ This repo contains my implementation of various DSA questions.
 * Get middle element of the list
 * Get nTh node from the end.
 * Reverse the linked list
+* Remove all duplicates from a sorted linked list
