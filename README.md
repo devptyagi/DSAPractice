@@ -94,3 +94,4 @@ This repo contains my implementation of various DSA questions.
 * Get nTh node from the end.
 * Reverse the linked list
 * Remove all duplicates from a sorted linked list
+* Delete at given index
