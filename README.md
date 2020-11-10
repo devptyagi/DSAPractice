@@ -78,7 +78,7 @@ This repo contains my implementation of various DSA questions.
 
 ## Linked Lists
 
-#### Implemented generic SinglyLinkedList class with following functions: 
+#### Implemented generic Singly Linked List class with following functions: 
 
 * Add an element
 * Add an element in the beginning
@@ -94,4 +94,11 @@ This repo contains my implementation of various DSA questions.
 * Get nTh node from the end.
 * Reverse the linked list
 * Remove all duplicates from a sorted linked list
-* Delete at given index
+* Delete at given index     
+
+#### Implemented generic Circular Linked List class with following functions:  
+
+* Add at the beginning of a circular linked list
+* Add at the end of a circular linked list
+* Delete the head of circular linked list
+* Print cicular linked list
