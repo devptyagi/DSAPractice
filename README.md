@@ -103,3 +103,12 @@ This repo contains my implementation of various DSA questions.
 * Delete the head of circular linked list
 * Print cicular linked list
 * Delete kTh node.
+
+#### Implemented generic Doubly Linked List class with following functions:  
+
+* Add at the beginning of a Doubly linked list
+* Add at the end of a Doubly linked list
+* Delete the head of Doubly linked list
+* Delete the tail of Doubly linked list
+* Reverse doubly linked list
+* Print Doubly linked list
