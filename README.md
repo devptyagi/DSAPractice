@@ -12,6 +12,7 @@ This repo contains my implementation of various DSA questions.
 * Move all zeroes to the end
 * Left rotate array by one
 * Rotate array 'D' times
+* Shift all negative elements to left side
 
 ## Recursion
 
