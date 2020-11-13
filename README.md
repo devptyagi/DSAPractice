@@ -111,4 +111,9 @@ This repo contains my implementation of various DSA questions.
 * Delete the head of Doubly linked list
 * Delete the tail of Doubly linked list
 * Reverse doubly linked list
-* Print Doubly linked list
+* Print Doubly linked list 
+
+## Stack
+
+* Implementation of stack using Array
+* Implementation of stack using Linked List
