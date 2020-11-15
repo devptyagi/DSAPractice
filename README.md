@@ -119,3 +119,4 @@ This repo contains my implementation of various DSA questions.
 * Implementation of stack using Array
 * Implementation of stack using Linked List
 * Balanced Paranthesis Check
+* Reverse array using stack
