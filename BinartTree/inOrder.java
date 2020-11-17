@@ -1,6 +1,6 @@
-static void preorder(Node root) {
+static void inorder(Node root) {
     if(root == null) return;
-    preorder(root.left);
+    inorder(root.left);
     System.out.println(root.data);
-    preorder(root.right);
+    inorder(root.right);
 }
