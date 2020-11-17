@@ -127,3 +127,10 @@ This repo contains my implementation of various DSA questions.
 
 * Implementation of Queue using two Stacks
 * Rotate DeQueue by K
+
+## Binary Tree
+
+* Pre Order Traversal
+* In Order Traversal
+* Post Order Traversal
+* Height of a binary tree
