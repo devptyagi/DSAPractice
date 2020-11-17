@@ -126,4 +126,4 @@ This repo contains my implementation of various DSA questions.
 ## Queue
 
 * Implementation of Queue using two Stacks
-* Rotate Queue by K
+* Rotate DeQueue by K
