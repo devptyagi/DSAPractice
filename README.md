@@ -130,7 +130,8 @@ This repo contains my implementation of various DSA questions.
 
 ## Binary Tree
 
-* Pre Order Traversal
-* In Order Traversal
-* Post Order Traversal
+* Pre Order Traversal **[Depth First]**
+* In Order Traversal **[Depth First]**
+* Post Order Traversal **[Depth First]**
+* Level Order Traversal **[Breadth First]**
 * Height of a binary tree
