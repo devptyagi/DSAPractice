@@ -139,3 +139,4 @@ This repo contains my implementation of various DSA questions.
 ## Binary Search Tree
 
 * Insert in BST
+* Search in BST
