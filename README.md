@@ -140,3 +140,4 @@ This repo contains my implementation of various DSA questions.
 
 * Insert in BST
 * Search in BST
+* Range Sum
