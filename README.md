@@ -13,6 +13,7 @@ This repo contains my implementation of various DSA questions.
 * Left rotate array by one
 * Rotate array 'D' times
 * Shift all negative elements to left side
+* Spiral print Matrix
 
 ## Recursion
 
