@@ -14,6 +14,9 @@ This repo contains my implementation of various DSA questions.
 * Rotate array 'D' times
 * Shift all negative elements to left side
 * Spiral print Matrix
+* Next Permutaion
+* Max Sum Subarray (Kadane's Algorithm)
+* Set Matrix Zeros
 
 ## Recursion
 
