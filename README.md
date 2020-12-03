@@ -147,3 +147,7 @@ This repo contains my implementation of various DSA questions.
 * Search in BST
 * Delete from BST
 * Range Sum
+
+## Binary Heap
+
+* Min Heap Implementation
