@@ -39,7 +39,8 @@ This repo contains my implementation of various DSA questions.
 * Print all permutations of an array
 * Print all combinations of K elements form an array
 * Pritn all anagrams of a given string
-* Break a string into words defined in a dictionary
+* Break a string into words defined in a dictionary    
+* Generate all combinations of well-formed parentheses.
 
 ## Dynamic Programming
 
