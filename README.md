@@ -152,3 +152,4 @@ This repo contains my implementation of various DSA questions.
 ## Binary Heap
 
 * Min Heap Implementation
+* Heap Sort Algorithm
