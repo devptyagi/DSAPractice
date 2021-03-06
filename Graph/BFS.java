@@ -1,5 +1,5 @@
 static void BFS(ArrayList<ArrayList<Integer>> adj, int n, int source) {
-    boolean[] visited = new boolean[n];
+    boolean[] visited = new boolean[n + 1];
     Queue<Integer> q = new LinkedList<>();
     visited[source] = true;
     q.add(source);
