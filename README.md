@@ -81,6 +81,7 @@ This repo contains my implementation of various DSA questions.
 * Selection Sort
 * Insertion Sort
 * Merge Sort 
+* Quick Sort     
 
 ## Linked Lists
 
