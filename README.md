@@ -162,4 +162,5 @@ This repo contains my implementation of various DSA questions.
 * Adjacency List Implementation.    
 * BFS (Breadth First Search).       
 * BFS for Disconnected Graphs and No Source Given.      
-* Count connected components in an Undirected Graph (Count Islands in a Graph).     
+* Count connected components in an Undirected Graph (Count Islands in a Graph).      
+* DFS (Depth First Search).    
