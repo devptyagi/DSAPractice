@@ -48,6 +48,7 @@ This repo contains my implementation of various DSA questions.
 * nCr [Combinations: Choose R objects from N objects]
 * Knapsack Problem
 * House Painting Problem
+* Number of ways to travel MxN Grid.
 
 ## Hashing
 
