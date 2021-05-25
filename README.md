@@ -164,4 +164,5 @@ This repo contains my implementation of various DSA questions.
 * BFS (Breadth First Search).       
 * BFS for Disconnected Graphs and No Source Given.      
 * Count connected components in an Undirected Graph (Count Islands in a Graph).      
-* DFS (Depth First Search).    
+* DFS (Depth First Search).     
+* Kruskal's Algorithm for finding Minimum Spanning Tree.
