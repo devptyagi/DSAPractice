@@ -17,6 +17,7 @@ This repo contains my implementation of various DSA questions.
 * Next Permutaion
 * Max Sum Subarray (Kadane's Algorithm)
 * Set Matrix Zeros
+* Factorial of a Large Number
 
 ## Recursion
 
