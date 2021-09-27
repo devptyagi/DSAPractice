@@ -157,7 +157,11 @@ This repo contains my implementation of various DSA questions.
 * Min Heap Implementation
 * Heap Sort Algorithm
 * kTh Largest Element using Priority Queue.     
-* kTh Smallest Element using Priority Queue.        
+* kTh Smallest Element using Priority Queue.   
+
+## Disjoint Set
+
+* Implementation of Disjoint set - Union by Rank and Path Compression.
 
 ## Graphs   
 
