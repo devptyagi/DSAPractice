@@ -4,20 +4,20 @@ This repo contains my implementation of various DSA questions.
 
 ## Arrays
 
-* Array Insertion
-* Array Delete
-* Find largest element index
-* Check if array is sorted
-* Remove duplicates from sorted array
-* Move all zeroes to the end
-* Left rotate array by one
-* Rotate array 'D' times
-* Shift all negative elements to left side
-* Spiral print Matrix
-* Next Permutaion
-* Max Sum Subarray (Kadane's Algorithm)
-* Set Matrix Zeros
-* Factorial of a Large Number
+* Array Insertion.
+* Array Delete.
+* Find largest element index.
+* Check if array is sorted.
+* Remove duplicates from sorted array.
+* Move all zeroes to the end.
+* Left rotate array by one.
+* Rotate array 'D' times.
+* Shift all negative elements to left side.
+* Spiral print Matrix.
+* Next Permutaion.
+* Max Sum Subarray (Kadane's Algorithm).
+* Set Matrix Zeros.
+* Factorial of a Large Number.
 
 ## Recursion
 
